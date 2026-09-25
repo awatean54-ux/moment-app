@@ -1,0 +1,3 @@
+[build]
+  publish = "build/web"
+  command = "flutter pub get && flutter build web --release"
